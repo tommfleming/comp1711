@@ -26,7 +26,7 @@ int count = 0;
 // Array of records, length is an arbitray large number
 FITNESS_DATA dataList[1000]; 
 
-// Instance of the struct
+// Instance of the record
 FITNESS_DATA data;
 
 // This is your helper function. Do not change it in any way.
